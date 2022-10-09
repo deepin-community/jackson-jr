@@ -1,0 +1,2 @@
+version=4
+https://github.com/FasterXML/jackson-jr/tags .*/jackson-jr-parent-?([\d\.]+)\.tar\.gz

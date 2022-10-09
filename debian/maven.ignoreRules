@@ -1,0 +1,10 @@
+
+com.fasterxml.jackson.jr jackson-jr-all jar * * *
+com.fasterxml.jackson.jr jackson-jr-retrofit2 bundle * * *
+com.fasterxml.jackson.jr jackson-jr-stree bundle * * *
+de.jjohannes gradle-module-metadata-maven-plugin * * * *
+junit junit * * * *
+org.apache.maven.plugins maven-surefire-plugin * * * *
+org.moditect moditect-maven-plugin * * * *
+org.jacoco jacoco-maven-plugin * * * *
+org.apache.maven.plugins maven-javadoc-plugin * * * *
